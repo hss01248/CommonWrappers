@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="acp-1.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/build/intermediates/exploded-aar/com.mylhyl/acp/1.1.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/build/intermediates/exploded-aar/com.mylhyl/acp/1.1.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/development/Android/setup/.gradle/caches/modules-2/files-2.1/com.mylhyl/acp/1.1.7/73c42b7fdb96a33cb987defc4cad52d2cba2bd0/acp-1.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
